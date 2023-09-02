@@ -5,4 +5,6 @@ O banco de dados e todo o contexto do projeto foi retirado do Kaggle no seguinte
 
 https://www.kaggle.com/nosbielcs/brazilian-delivery-center 
 
-Neste projeto não irei mostrar todo o processo de carregamento e tratamento de dados pois o intuito é apenas a resolução de problemas de negócio.
+Foram disponibilizados 7 datasets para o projeto: Channels, deliveries, drivers, hubs, orders, payments e stores.
+
+Neste projeto não irei mostrar todo o processo de carregamento e tratamento de dados pois o intuito é apenas a resolução de problemas de negócio usando as várias possibilidades do SQL como consulta de dados usando funções de agrupamento, função de ordenamento, funções de agregamento e junções.
