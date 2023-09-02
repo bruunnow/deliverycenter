@@ -1,4 +1,4 @@
-# Delivery Center
+# Projeto Delivery Center
 Este é um projeto usando a linguagem de consulta SQL e tem como intuito responder 20 perguntas de negócios para a empresa Delivery Center, uma plataforma que integra lojistas e marketplaces criando um ecossistema para venda de produtos e comidas.
 
 O banco de dados e todo o contexto do projeto foi retirado do Kaggle no seguinte endereço: 
